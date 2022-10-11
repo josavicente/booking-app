@@ -2,14 +2,6 @@
 
 Go tutorial from:
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/UmX4kyB2wfg"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/yyUHQIec83I/0.jpg)](https://www.youtube.com/watch?v=yyUHQIec83I)
 
 This tutorial covers the main characteristics of GO and works as a first approach to the language
