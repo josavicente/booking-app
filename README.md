@@ -2,6 +2,14 @@
 
 Go tutorial from:
 
-[https://youtu.be/yyUHQIec83I](Golang Tutorial for Beginners | Full Go Course)
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/UmX4kyB2wfg"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 This tutorial covers the main characteristics of GO and works as a first approach to the language
